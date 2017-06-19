@@ -1,22 +1,22 @@
 # simplecrawler
 [About This Guide](#about_this_guide)
 # <span id="quick_start_guide">simplecrawler</span>
-f
-s
-d
-sd
-s
-ds
-d
-sd
-s
-ds
-d
-d
-sd
-s
-ds
-d
+###f
+###s
+###d
+###s###d
+###s
+###ds
+###d
+###s###d
+###s
+###ds
+###d
+###d
+###sd
+###s
+###ds
+###d
 d
 s
 ds
